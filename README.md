@@ -21,7 +21,7 @@ A Plataforma de Adoção de Pets é um sistema fullstack com caráter extensioni
 
 ## 💻 Stack Tecnológica
 De acordo com a arquitetura do MVP (Monólito Modular):
-* **Linguagem / Back-end:** Java
+* **Linguagem / Back-end:** Python
 * **Front-end:** 
 * **Banco de Dados:** 
 * **Nuvem e Infraestrutura:** AWS
